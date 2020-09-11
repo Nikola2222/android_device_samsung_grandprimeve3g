@@ -1,4 +1,4 @@
-##Device configuration for Samsung Galaxy Grand Prime VE SPRD SM-G531H (grandprimeve3g)
+##Device configuration for DEXP Ixion MS650
 
 =====================================
 
@@ -7,16 +7,16 @@ Basic   | Spec Sheet
 CPU     | Quad-core 1,3GHz Cortex-A7
 CHIPSET | Spreadtrum SC7730SE sc8830
 GPU     | Mali-400MP2
-Memory  | 1 GB
-Shipped Android Version | Android 5.1.1 with TouchWiz Essence
-Storage | 8 GB
+Memory  | 2 GB
+Shipped Android Version | Android 7.0
+Storage | 16 GB
 MicroSD | Up to 64 GB
-Battery | 2600 mAh Li-Ion (removable)
-Dimensions | 144.8 x 72.1 x 8.6 mm
-Display | 540 x 960 pixels, 5.0"
+Battery | 2500 mAh Li-polymer (removable)
+Dimensions | 143.8 x 71 x 9.3 mm
+Display | 720 x 1280 pixels, 5.0"
 Rear Camera  | 8.0 MP, LED flash
-Front Camera | 5.0 MP
-Release Date | June 2015
+Front Camera | 8.0 MP, LED flash
+Release Date | 2017
 
 ##Building instructions
 
